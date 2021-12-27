@@ -1,3 +1,4 @@
+// type checker untuk data article
 type Attributes = {
   title: string
   body: string

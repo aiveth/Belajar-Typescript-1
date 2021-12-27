@@ -1,5 +1,6 @@
 import { Data } from './type.article'
 
+// Data article hasil dari contoh response
 export const article: { data: Data[] } = {
   data: [
     {
