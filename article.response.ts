@@ -39,7 +39,7 @@ export const data: DataArticle = {
       id: "1",
       attributes: {
         title: "Tugas Belajar TypeScript",
-        body: "Latihan dulu biar ngerti",
+        body: "Latihan dulu biar ngerti gan",
         created: "2021-12-27T14:56:29.000Z",
         updated: "2021-12-27T14:56:28.000Z",
         published: true,
