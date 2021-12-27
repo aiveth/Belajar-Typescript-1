@@ -1,1 +1,0 @@
-# Belajar-Typescript-1
